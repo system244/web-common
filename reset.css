@@ -2,4 +2,5 @@
 	reset
 */
 body,h1,h2,h3,h4,h5,p,menu { margin:0px; }
+ul { list-style-type:none; }
 menu { padding:0px; }
